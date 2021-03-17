@@ -1,0 +1,37 @@
+﻿  CameraInput.cpp
+  SceneInput.cpp
+  SimpleScene.cpp
+  Engine.cpp
+  GPUBuffers.cpp
+  Mesh.cpp
+  Shader.cpp
+  Texture2D.cpp
+  TextureManager.cpp
+  InputController.cpp
+  WindowCallbacks.cpp
+  WindowObject.cpp
+  World.cpp
+  gl.cpp
+  Obiecte3D.cpp
+  Tema2.cpp
+  Main.cpp
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(58,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(61,91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(63,91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(65,91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(168,96): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(169,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(170,46): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(171,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(221,26): warning C4305: '+=': truncation from 'double' to 'float'
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(226,26): warning C4305: '-=': truncation from 'double' to 'float'
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(392,24): warning C4305: '-=': truncation from 'double' to 'float'
+E:\HardDiskFiles\Personal Projects\Skyroads\Source\Laboratoare\Tema2\Tema2.cpp(400,24): warning C4305: '+=': truncation from 'double' to 'float'
+  LINK : ..\x64\Debug\Framework_EGC.exe not found or not built by the last incremental link; performing full link
+  Framework_EGC.vcxproj -> E:\HardDiskFiles\Personal Projects\Skyroads\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file E:\HardDiskFiles\Personal Projects\Skyroads\Visual Studio\scripts\..\..\x64\Debug already exists.
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
